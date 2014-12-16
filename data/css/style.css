@@ -77,7 +77,7 @@ fieldset.sectionwrap {
   border-width: 0;
 }
 legend.legendStep {
-  font: bold 16px Arial;
+  font: bold 16px Gotham Narrow;
   color: #57442b;
 }
 div.stepsguide {
@@ -89,7 +89,7 @@ div.stepsguide {
 div.stepsguide .step {
   float: left;
   width: 250px;
-  font: bold 24px Arial;
+  font: bold 24px Gotham Narrow;
 }
 div.stepsguide .step p {
   margin: 12px 0;
@@ -250,7 +250,7 @@ thead.tablesorter-stickyHeader {
 inc_top.tmpl
 ========================================================================== */
 body {
-  font-family: Verdana, "Helvetica", sans-serif;
+  font-family: "Gotham Narrow", Verdana, "Helvetica", sans-serif;
   font-size: 12px;
   color: #000;
   background-color: #f5f1e4;
@@ -286,13 +286,13 @@ body {
 }
 #logo {
   padding: 0 5px 0 15px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Gotham Narrow, Helvetica, sans-serif;
   font-size: 33px;
   font-weight: bold;
   text-transform: uppercase;
 }
 #versiontext {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Gotham Narrow, Helvetica, sans-serif;
   font-size: 20px;
   color: #57442b;
   text-rendering: optimizelegibility;
@@ -1067,7 +1067,7 @@ span.path {
 h1.title {
   padding-bottom: 4px;
   margin-bottom: 15px;
-  font-family: "Helvetica", Verdana, sans-serif;
+  font-family: "Gotham Narrow", "Helvetica", Verdana, sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 30px;
@@ -1090,7 +1090,7 @@ h1.title {
 span.quality {
   display: inline-block;
   padding: 2px 4px;
-  font: bold 1em/1.2em verdana, sans-serif;
+  font: bold 1em/1.2em "Gotham Narrow", verdana, sans-serif;
   color: #fff;
   text-align: center;
   background: none repeat scroll 0 0 #999;
